@@ -1,14 +1,14 @@
-layout_spectrum: 0.41100070415996015
-typography_spectrum: 0.28085410757921636
+layout_spectrum: 0.9105293720494956
+typography_spectrum: 0.8429790923837572
 color:
-  brandStrength: 0.8975659776479006
-  lightness: 0.9486593867186457
-  saturation: 0.4817035789601505
-  rhythmicContrast: 0.12183031463064253
+  brandStrength: 0.03208903246559203
+  lightness: 0.5256873983889818
+  saturation: 0.02899532252922654
+  rhythmicContrast: 0.8649720991961658
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
 name: Cities
