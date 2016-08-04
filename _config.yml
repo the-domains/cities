@@ -1,14 +1,26 @@
-layout_spectrum: 0.9105293720494956
-typography_spectrum: 0.8429790923837572
+layout_spectrum: 1
+name: Cities
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
   brandStrength: 0.03208903246559203
-  lightness: 0.5256873983889818
-  saturation: 0.02899532252922654
-  rhythmicContrast: 0.8649720991961658
+  lightness: 0.3106383
+  saturation: 0.7148936
+  rhythmicContrast: 1
   brandColors:
     - '#FF5335'
     - '#B39C85'
     - '#306E73'
     - '#3B424D'
     - '#1D181F'
-name: Cities
+typography_spectrum: 0.2191489
