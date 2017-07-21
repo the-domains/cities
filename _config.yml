@@ -1,5 +1,36 @@
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4e8116e-46fb-474c-b8d0-14be9d18f489.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4e8116e-46fb-474c-b8d0-14be9d18f489.jpg
+    metadata:
+      description: ''
+      '@context': 'http://schema.org'
+      related: []
+      author: []
+      keywords: []
+      publisher:
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        favicon: null
+      app_links: []
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+content_rating:
+  adult: false
 layout_spectrum: 1
+github: true
 name: Cities
+author: {}
+analytics: {}
+opengraph: {}
 collections:
   - index:
       navigable: true
