@@ -1,3 +1,18 @@
+layout_spectrum: 0.9965783258149455
+typography_spectrum: 0.37544801835975805
+color:
+  brandStrength: 0.04772908280861776
+  lightness: 0.676569479522987
+  saturation: 0.31100636745498766
+  rhythmicContrast: 0.6249484693883264
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+coverPrefs:
+  filter: false
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -25,7 +40,6 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 content_rating:
   adult: false
-layout_spectrum: 1
 github: true
 name: Cities
 author: {}
@@ -43,15 +57,3 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.2191489
-color:
-  brandStrength: 1
-  lightness: 0.3106383
-  saturation: 0.7148936
-  rhythmicContrast: 1
-  brandColors:
-    - '#FF5335'
-    - '#B39C85'
-    - '#306E73'
-    - '#3B424D'
-    - '#1D181F'
